@@ -60,7 +60,7 @@ export default function Feature() {
               </div>
               <div className="relative w-full h-48">
                 <Image
-                  src="/pic-2.jpg"
+                  src="/pic-2.JPG"
                   alt="Team Collaboration"
                   fill
                   className="rounded-lg object-cover shadow-lg"
@@ -70,7 +70,7 @@ export default function Feature() {
             <div className="space-y-4 mt-8">
               <div className="relative w-full h-48">
                 <Image
-                  src="/pic-4.jpg"
+                  src="/pic-4.JPG"
                   alt="Design Tools"
                   fill
                   className="rounded-lg object-cover shadow-lg"
@@ -78,7 +78,7 @@ export default function Feature() {
               </div>
               <div className="relative w-full h-48">
                 <Image
-                  src="/pic-3.jpg"
+                  src="/pic-3.JPG"
                   alt="Brand Strategy"
                   fill
                   className="rounded-lg object-cover shadow-lg"
