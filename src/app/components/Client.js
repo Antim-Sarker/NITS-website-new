@@ -8,7 +8,7 @@ export default function Partner() {
     "/clients/IPDC-logo.png",
     "/clients/janata.png",
     "/clients/mercantile.png",
-    "/clients/prime bank.jpg",
+    "/clients/Prime bank.jpg",
   ];
 
   return (
