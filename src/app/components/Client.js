@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Partner() {
   const clientsLogo = [
-    "/clients/GIB.png",
+    "/clients/gib.png",
     "/clients/IPDC-logo.png",
     "/clients/janata.png",
     "/clients/mercantile.png",
